@@ -1,2 +1,2 @@
 # projetos
-Projetos e aprendizadso
+Projetos e aprendizado
