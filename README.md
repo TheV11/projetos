@@ -1,2 +1,2 @@
-# projetos
-Projetos e aprendizado
+# JogoPong
+Jogo pong desenvolvido com javascript
